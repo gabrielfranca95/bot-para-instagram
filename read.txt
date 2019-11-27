@@ -1,0 +1,2 @@
+Este é um modelo de bot inicial no qual a finalidade e realizar o login na conta do usuário, buscar a hashtag indicada pelo mesmo, curtir, comentar e seguir seguidores dos usuários que postaram, desenvolvendo assim um perfil voltado para aquele nicho. 
+	Para utilizar o código devera ser preenchida entre as aspas a hashtag desejada e ao final do código o usuário e a senha para que o mesmo possa logar.
