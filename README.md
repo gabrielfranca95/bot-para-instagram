@@ -1,4 +1,4 @@
-# Bot para comentar e seguir pessoas no instagram
+# Bot para comentar curtir e seguir pessoas no instagram
 
 Fazendo uso do selenium webdriver 
 
