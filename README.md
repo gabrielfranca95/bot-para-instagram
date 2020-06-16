@@ -10,10 +10,10 @@ Fazendo uso do selenium webdriver
 
 ### Requisitos
 
-Os requisitos são minimos uma desktop com 2gb de ram e poucas paginas abertas conseguem executar com tranquilidade.
+Os requisitos são mínimos, uma máquina com 2gb de ram e poucas paginas abertas consegue executar com tranquilidade.
 
 ```
-2gb ram -- processador intel inside ou paralelo ao mesmo -- sistema operacional windows -- vs code
+2gb ram -- processador intel inside ou paralelo ao mesmo -- sistema operacional windows -- vs code -- python3.7 ou superior
 ```
 
 ### Instalando
