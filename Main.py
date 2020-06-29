@@ -9,6 +9,7 @@ class InstagramBot:
     def __init__(self, username, password): 
         self.username = username
         self.password = password
+        # the executable below must be indicated a path, if the path indicates nonexistent, add geckodriver.exe to the webdriver folder and indicate the path to find it!#
         self.driver = webdriver.Firefox(executable_path=r'C:\Users\pc\Downloads\geckodriver\geckodriver.exe')
 
 
